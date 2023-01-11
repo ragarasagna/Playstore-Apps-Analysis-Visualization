@@ -6,9 +6,11 @@ This project aims on cleaning the dataset, analyze the given dataset, and mining
 <b>*Dataset*</b> - Real-world dataset of the google play store, one of the most used applications for downloading android apps
 
 ### Tools Used:
--Python
--MYSQL
--Excel
--Tableau
-
+<ul>
+  <li>Python</li>
+  <li>MYSQL</li>
+  <li>Excel</li>
+  <li>Tableau</li>
+</ul>
+ 
 *This project is provided by Hi-Counselor.*
