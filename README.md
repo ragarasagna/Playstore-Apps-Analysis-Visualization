@@ -1,15 +1,15 @@
 # Playstore-Apps-Analysis-Visualization
 
 ### About:
-This project aims on cleaning the dataset, analyze the given dataset, and mining informational quality insights. This project also involves visualizing the data to better and easily understand trends and different categories. This project is done understand how a real-world database is analyzed using SQL, how to get maximum available insights from the dataset, pre-process the data using python for a better upcoming performance, how a structured query language helps us retrieve useful information from the database, and visualize the data with a Data Viz tool.
+This project aims on cleaning the dataset, analyze the given dataset, and mining informational quality insights. It involves visualizing the data to better and easily understand trends and different categories. It is done understand how a real-world database is analyzed using SQL, how to get maximum available insights from the dataset, pre-process the data using python for a better upcoming performance, how a structured query language helps us retrieve useful information from the database, and visualize the data with a Data Viz tool.
 
 <b>*Dataset*</b> - Real-world dataset of the google play store, one of the most used applications for downloading android apps
 
 ### Tools Used:
 <ul>
   <li>Python</li>
-  <li>MYSQL</li>
-  <li>Excel</li>
+  <li>MySQL</li>
+  <li>MS Excel</li>
   <li>Tableau</li>
 </ul>
 
